@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Api Pokemon": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
